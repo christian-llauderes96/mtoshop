@@ -15,4 +15,7 @@ Users: admin, employee, customer
 Laravel 9
 php ^8.0.*
 
-
+## Website
+<p align="center">
+    <a href="https://online.codehubapp.com"><img src="https://online.codehubapp.com/assets/img/mylogo.webp" alt="Web Logo" height="200" width="200"><br>Sample Shop</a>
+</p>
